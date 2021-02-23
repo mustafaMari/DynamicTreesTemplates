@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mufasa/OneDrive/Documents/GitHub/School Projects/C++/Lab4/CNodeDynamic.h
+iostream
+-
+vector
+-
+
+C:/Users/Mufasa/OneDrive/Documents/GitHub/School Projects/C++/Lab4/main.cpp
+iostream
+-
+CNodeDynamic.h
+C:/Users/Mufasa/OneDrive/Documents/GitHub/School Projects/C++/Lab4/CNodeDynamic.h
+
